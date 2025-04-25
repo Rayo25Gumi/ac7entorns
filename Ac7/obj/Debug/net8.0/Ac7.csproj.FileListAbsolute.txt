@@ -1,0 +1,15 @@
+/Users/marc/Documents/Clase/Entorns/3r trimestre/ac7/AC7/Ac7/bin/Debug/net8.0/Ac7
+/Users/marc/Documents/Clase/Entorns/3r trimestre/ac7/AC7/Ac7/bin/Debug/net8.0/Ac7.deps.json
+/Users/marc/Documents/Clase/Entorns/3r trimestre/ac7/AC7/Ac7/bin/Debug/net8.0/Ac7.runtimeconfig.json
+/Users/marc/Documents/Clase/Entorns/3r trimestre/ac7/AC7/Ac7/bin/Debug/net8.0/Ac7.dll
+/Users/marc/Documents/Clase/Entorns/3r trimestre/ac7/AC7/Ac7/bin/Debug/net8.0/Ac7.pdb
+/Users/marc/Documents/Clase/Entorns/3r trimestre/ac7/AC7/Ac7/obj/Debug/net8.0/Ac7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marc/Documents/Clase/Entorns/3r trimestre/ac7/AC7/Ac7/obj/Debug/net8.0/Ac7.AssemblyInfoInputs.cache
+/Users/marc/Documents/Clase/Entorns/3r trimestre/ac7/AC7/Ac7/obj/Debug/net8.0/Ac7.AssemblyInfo.cs
+/Users/marc/Documents/Clase/Entorns/3r trimestre/ac7/AC7/Ac7/obj/Debug/net8.0/Ac7.csproj.CoreCompileInputs.cache
+/Users/marc/Documents/Clase/Entorns/3r trimestre/ac7/AC7/Ac7/obj/Debug/net8.0/Ac7.sourcelink.json
+/Users/marc/Documents/Clase/Entorns/3r trimestre/ac7/AC7/Ac7/obj/Debug/net8.0/Ac7.dll
+/Users/marc/Documents/Clase/Entorns/3r trimestre/ac7/AC7/Ac7/obj/Debug/net8.0/refint/Ac7.dll
+/Users/marc/Documents/Clase/Entorns/3r trimestre/ac7/AC7/Ac7/obj/Debug/net8.0/Ac7.pdb
+/Users/marc/Documents/Clase/Entorns/3r trimestre/ac7/AC7/Ac7/obj/Debug/net8.0/Ac7.genruntimeconfig.cache
+/Users/marc/Documents/Clase/Entorns/3r trimestre/ac7/AC7/Ac7/obj/Debug/net8.0/ref/Ac7.dll
